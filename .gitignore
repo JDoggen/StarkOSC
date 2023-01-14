@@ -1,2 +1,6 @@
+#dirs
 /dist
 /node_modules
+
+#builds
+*.tgz

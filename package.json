@@ -2,7 +2,7 @@
   "name": "stark-osc",
   "version": "0.1.0",
   "description": "Wrapper library for osc-js to control Ableton via AbletonOSC",
-  "main": "index.js",
+  "main": "dist/starkOSC.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
