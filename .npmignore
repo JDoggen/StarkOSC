@@ -1,1 +1,5 @@
-src
+#dirs
+/src
+
+#builds
+*.tgz
