@@ -1,0 +1,28 @@
+{
+  "name": "stark-osc",
+  "version": "0.1.0",
+  "description": "Wrapper library for osc-js to control Ableton via AbletonOSC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ableton",
+    "osc"
+  ],
+  "author": {
+    "name": "Jeroen Doggen",
+    "url": "https://github.com/JDoggen"
+  },
+  "contributors": [
+    {
+      "name": "Rien Heuver",
+      "url": "https://github.com/rienheuver"
+    }
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "osc-js": "^2.4.0",
+    "strongly-typed-events": "^3.0.8"
+  }
+}
